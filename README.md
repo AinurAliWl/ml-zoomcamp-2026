@@ -1,4 +1,3 @@
-
 # Machine Learning Zoomcamp 2026
 
 This repository contains my coursework, homework assignments, and practical exercises from the **Machine Learning Zoomcamp 2026** by [DataTalks.Club](https://github.com/DataTalksClub/machine-learning-zoomcamp).
@@ -33,7 +32,7 @@ Each module contains the corresponding homework assignments and related code.
 ## Course Progress
 
 * [X] Module 1 — Introduction to Machine Learning
-* [ ] Module 2 — Regression
+* [X] Module 2 — Regression
 * [ ] Module 3 — Classification
 * [ ] Module 4 — Evaluation
 * [ ] Module 5 — Deployment
