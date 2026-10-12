@@ -33,7 +33,7 @@ Each module contains the corresponding homework assignments and related code.
 
 * [X] Module 1 — Introduction to Machine Learning
 * [X] Module 2 — Regression
-* [ ] Module 3 — Classification
+* [X] Module 3 — Classification
 * [ ] Module 4 — Evaluation
 * [ ] Module 5 — Deployment
 * [ ] Module 6 — Decision Trees and Ensemble Learning
