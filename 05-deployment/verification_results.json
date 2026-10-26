@@ -1,0 +1,34 @@
+{
+  "environment": {
+    "python": "3.11.15",
+    "scikit_learn": "1.7.2",
+    "model_sha256": "1646bbdcd38d4f044da6b630c5b332c93a314245a8c21929011c42de51f629f1",
+    "feature_defaults_sha256": "1694f842b908fac9f53c0cc19be6d91f934befc63af23cc32fefafde69acd0cd",
+    "status": "ok"
+  },
+  "uv_version": "uv 0.13.4 (x86_64-unknown-linux-gnu)",
+  "q3": {
+    "conversion_probability": 0.5329944186432507,
+    "conversion": true,
+    "answer_q3": "0.533"
+  },
+  "local_api": {
+    "base_url": "http://127.0.0.1:9696",
+    "health": {
+      "status": "ok",
+      "model_sha256": "1646bbdcd38d4f044da6b630c5b332c93a314245a8c21929011c42de51f629f1",
+      "feature_defaults_sha256": "1694f842b908fac9f53c0cc19be6d91f934befc63af23cc32fefafde69acd0cd"
+    },
+    "prediction": {
+      "conversion_probability": 0.769799,
+      "conversion": true
+    },
+    "rounded_probability": "0.770"
+  },
+  "container": {
+    "executed": false,
+    "reason": "Docker CLI and daemon unavailable in execution environment",
+    "expected_conversion_probability": "0.770"
+  },
+  "reference_client_against_local_api": "{'conversion_probability': 0.769799, 'conversion': True}"
+}

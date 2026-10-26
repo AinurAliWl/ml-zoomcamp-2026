@@ -1,0 +1,92 @@
+[
+  {
+    "file": ".python-version",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/.python-version",
+    "git_blob_sha1": "ed7d51a38eca5f70d3e1964fd3e9710dd51de48d",
+    "sha256": "db82937e1f1830581a9553c7814f5c5fcacb6dfdef8310b43e9a812c887acaf5"
+  },
+  {
+    "file": "Dockerfile",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/Dockerfile",
+    "git_blob_sha1": "3525b5cfc58fd8e14f976fe0a1ec0c1761390a99",
+    "sha256": "3a368f02e8c26ce996632d69a6a948ace45ff76098d52dc29ce5e5286e7d5c5a"
+  },
+  {
+    "file": "README.md",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/README.md",
+    "git_blob_sha1": "2475ea7e11826a9f6dc22afc5edc778921efb955",
+    "sha256": "0f1c898c50eea0e23dd8be01a9d81d119ade2a7b3955c9d82b6a92761116e3ef"
+  },
+  {
+    "file": "feature_defaults.json",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/feature_defaults.json",
+    "git_blob_sha1": "1ea677bf7fb4e8c3c9ef75b12d5ea18ed1a179cb",
+    "sha256": "1694f842b908fac9f53c0cc19be6d91f934befc63af23cc32fefafde69acd0cd"
+  },
+  {
+    "file": "homework.md",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/homework.md",
+    "git_blob_sha1": "0bdb3285d58148a99240f76866056592991757e1",
+    "sha256": "7d4eaaceac2ac43cb6ec9cbcca5eb2064102c055939b4cdc95faefa23dbfef42"
+  },
+  {
+    "file": "homework.yaml",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/homework.yaml",
+    "git_blob_sha1": "cc0ed62a8f32e5a67e5ce4cdb985599c59a2f766",
+    "sha256": "b39f6c71d17b42fed4d18a8b7a98cee9a99e14a617fe36c6e94b294a62f654a7"
+  },
+  {
+    "file": "model.py",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/model.py",
+    "git_blob_sha1": "d61616f6993a857d4633e3b968e877729d8b85a7",
+    "sha256": "b59db3ca432a46b3f50959453df6b18fced82442040398504cb58a314091cf7f"
+  },
+  {
+    "file": "model_metadata.json",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/model_metadata.json",
+    "git_blob_sha1": "ec0c8d5220263647eea805fd171d2bdecc460d24",
+    "sha256": "c71a8fe2d9a3e77744f5b924eadf7787efb58c2a734269a85fbbbcef9efba9c7"
+  },
+  {
+    "file": "pipeline.bin",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/pipeline.bin",
+    "git_blob_sha1": "aa3d7a09bac8205abc73704fd28184ef82341fc2",
+    "sha256": "1646bbdcd38d4f044da6b630c5b332c93a314245a8c21929011c42de51f629f1"
+  },
+  {
+    "file": "predict.py",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/predict.py",
+    "git_blob_sha1": "f5b8d3502fbc13147594fc2785aefe2d14142123",
+    "sha256": "7ad45a67479717a58b846b5706403868583e501924baaac6999d13b0376596eb"
+  },
+  {
+    "file": "pyproject.toml",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/pyproject.toml",
+    "git_blob_sha1": "627c95898be054469928b871053ab5098bfd5158",
+    "sha256": "43f6ca8023c7e457651b249757196aa3fcdb513350d19dcc902471ba96b33b2e"
+  },
+  {
+    "file": "q6_test.py",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/q6_test.py",
+    "git_blob_sha1": "d3f683bf9012d77a2553d717157d63e8599c617c",
+    "sha256": "d57182d1122e14527886bc4a23b29cfc9508e2654758975f3f3a5ac72603ae9a"
+  },
+  {
+    "file": "smoke_test.py",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/smoke_test.py",
+    "git_blob_sha1": "4884d6c91269b68b143e889a40fef96debd6bb30",
+    "sha256": "3661c65a97e830e8c87806cab3ea8e708f56a44731cacaa23edbe28a454e9e9d"
+  },
+  {
+    "file": "train.py",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/train.py",
+    "git_blob_sha1": "fbcf24fd5ae879b238febe81cce925750d002002",
+    "sha256": "3698d5dd7d8c390a129d385360a378be200b0ca0158605b48bb31df2bd2fc92f"
+  },
+  {
+    "file": "uv.lock",
+    "source_url": "https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/homework/05-deployment/uv.lock",
+    "git_blob_sha1": "3bc62539700fbaa7a358a6b098de37344e406686",
+    "sha256": "1f75a9f9a7cfb39ae4d7b902e1dba720a1bad7649739ccbd5dd6441b2f614e85"
+  }
+]
