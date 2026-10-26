@@ -35,7 +35,7 @@ Each module contains the corresponding homework assignments and related code.
 * [X] Module 2 — Regression
 * [X] Module 3 — Classification
 * [X] Module 4 — Evaluation
-* [ ] Module 5 — Deployment
+* [X] Module 5 — Deployment
 * [ ] Module 6 — Decision Trees and Ensemble Learning
 * [ ] Module 7 — Neural Networks and Deep Learning
 * [ ] Module 8 — Kubernetes and TensorFlow Serving
