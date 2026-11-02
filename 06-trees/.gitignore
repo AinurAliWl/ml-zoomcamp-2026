@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+car_fuel_efficiency_2026.csv
